@@ -18,5 +18,5 @@
             "Apiki_Buscape_API.php"
         ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
