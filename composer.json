@@ -1,0 +1,22 @@
+
+{
+    "name": "lucassmacedo/buscape-php",
+    "description": "Easy flash notifications",
+    "version": "2.0.6",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Macedo",
+            "email": "luuckymacedo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "classmap": [
+            "Apiki_Buscape_API.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
